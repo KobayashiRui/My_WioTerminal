@@ -1,0 +1,2 @@
+# WioTerminalのLCD表示のテストコード
+LCD画面を赤で塗りつぶす
