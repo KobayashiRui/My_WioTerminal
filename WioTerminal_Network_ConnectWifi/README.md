@@ -1,2 +1,1 @@
-# Wio Terminalのwifiテストコード1
-自分の環境で使用可能なwifiを全てスキャンしてシリアルで結果を返すだけのプログラム
+# WioTerminalでWifiのAPに接続する
